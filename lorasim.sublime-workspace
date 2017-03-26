@@ -1,0 +1,836 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"algor",
+				"algorithmicif"
+			],
+			[
+				"PLL",
+				"PLL_lock_flag"
+			],
+			[
+				"port",
+				"portTICK_PERIOD_MS"
+			],
+			[
+				"vTask",
+				"vTaskDelay"
+			],
+			[
+				"xSema",
+				"xSemaphoreTake"
+			],
+			[
+				"CSAC",
+				"CSAC_lock_flag"
+			],
+			[
+				"vt",
+				"vTaskSuspend"
+			],
+			[
+				"xBS",
+				"xBSemaphore_CSAC_PLL"
+			],
+			[
+				"uart",
+				"uart_console_state_t"
+			],
+			[
+				"csac",
+				"csac_get_state"
+			],
+			[
+				"time",
+				"time_now"
+			],
+			[
+				"xTas",
+				"xTaskGetTickCount"
+			],
+			[
+				"SDK",
+				"SDK_DIR"
+			],
+			[
+				"KINE",
+				"KINETIS_SDK_DIR"
+			],
+			[
+				"Gdb",
+				"GdbServerFlags"
+			],
+			[
+				"gdb",
+				"GdbServer"
+			],
+			[
+				"TO",
+				"TO_NATIVE_PATH"
+			],
+			[
+				"Project",
+				"PROJECT_NAME"
+			],
+			[
+				"PROJET",
+				"PROJECT_NAME"
+			],
+			[
+				"PROJECT",
+				"PROJECT_NAME"
+			],
+			[
+				"D",
+				"DbgConsole_Printf"
+			],
+			[
+				"RX",
+				"RX_BUF_LEN"
+			],
+			[
+				"t_repl",
+				"t_reply2"
+			],
+			[
+				"RES",
+				"RESP2_MSG"
+			],
+			[
+				"DEV",
+				"DEVNO"
+			],
+			[
+				"init_",
+				"init_rx_ts"
+			],
+			[
+				"INI",
+				"INIT_MSG"
+			],
+			[
+				"dwt_",
+				"dwt_readrxtimestamp"
+			],
+			[
+				"dwt_read",
+				"dwt_read32bitreg"
+			],
+			[
+				"size",
+				"sizeof"
+			],
+			[
+				"TX",
+				"TX_BUF_LEN"
+			],
+			[
+				"UARTCo",
+				"UARTConsole_Printf"
+			],
+			[
+				"UART",
+				"UARTConsole_Printf"
+			],
+			[
+				"CLOCK_Get",
+				"CLOCK_GetCoreSysClkFreq"
+			],
+			[
+				"s_",
+				"s_debugConsole"
+			],
+			[
+				"number",
+				"number1"
+			],
+			[
+				"numb",
+				"number1"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "loraDir.py",
+			"settings":
+			{
+				"buffer_size": 19824,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "loraDirMulBS.py",
+			"settings":
+			{
+				"buffer_size": 21012,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "package",
+		"selected_items":
+		[
+			[
+				"package",
+				"Package Control: Add Channel"
+			],
+			[
+				"package inst",
+				"Package Control: Install Package"
+			],
+			[
+				"package disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"package ",
+				"Package Control: Disable Package"
+			],
+			[
+				"package install",
+				"Package Control: Install Package"
+			],
+			[
+				"package insta",
+				"Package Control: Install Package"
+			],
+			[
+				"package remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"sublime",
+				"Preferences: SublimeClang Settings – User"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Add Channel"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 557.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/adwait/Workspace/lorasim"
+	],
+	"file_history":
+	[
+		"/Users/adwait/anaconda/pkgs/sympy-1.0-py35_0/lib/python3.5/site-packages/sympy/assumptions/ask_generated.py",
+		"/Users/adwait/anaconda/pkgs/pip-9.0.1-py27_1/lib/python2.7/site-packages/pip/_vendor/pyparsing.py",
+		"/Users/adwait/Workspace/pulsar_prop_aware_sync/pulsar.tex",
+		"/Users/adwait/Workspace/sensys_16_demo/sensys16demo.tex",
+		"/Users/adwait/Workspace/pulsar_prop_aware_sync/references.bib",
+		"/Users/adwait/Downloads/2989163.bib",
+		"/Users/adwait/Workspace/pulsar_prop_aware_sync/pulsar_changes.tex",
+		"/Users/adwait/Workspace/adwaitnd.github.io/docs/_docs/05-configuration.md",
+		"/Users/adwait/Library/Application Support/Sublime Text 3/Packages/MarkdownEditing/Markdown (Standard).sublime-settings",
+		"/Users/adwait/Workspace/349-f16/code/newlib/newlib/libc/time/wcsftime.c",
+		"/Users/adwait/Workspace/pulsar_prop_aware_sync/Makefile",
+		"/Users/adwait/Library/Application Support/Sublime Text 3/Packages/Jekyll/Jekyll.sublime-settings",
+		"/Users/adwait/Library/Application Support/Sublime Text 3/Packages/User/Jekyll.sublime-settings",
+		"/Users/adwait/Workspace/pulsar/exp6_analysis.m",
+		"/Users/adwait/Workspace/ta-18-349-f16/exams/2016/final/final.tex",
+		"/Users/adwait/Downloads/Passport renewal/PassportApplicationForm_Main_English_V3.0_data.xml",
+		"/Users/adwait/Workspace/349-f16/lab4/screen.py",
+		"/Users/adwait/Workspace/pulsar/exp_1_2_plot.m",
+		"/Users/adwait/Workspace/ta-18-349-f16/exams/2015/final/final-extra.tex",
+		"/Users/adwait/Workspace/pulsar/exp7_power.m",
+		"/Users/adwait/generate_lora_power.m",
+		"/Users/adwait/Workspace/ta-18-349-f16/.git/MERGE_MSG",
+		"/Users/adwait/Workspace/pulsar_prop_aware_sync/.git/MERGE_MSG",
+		"/Users/adwait/Workspace/pulsar_prop_aware_sync/.gitignore",
+		"/Users/adwait/Workspace/pulsar_prop_aware_sync/bibliography.bib",
+		"/Users/adwait/Workspace/ta-18-349-f16/build_lab1.sh",
+		"/Users/adwait/Workspace/quals/abstract/qual_abstract.tex",
+		"/Users/adwait/Workspace/testing/asm_code/asm_opt.c",
+		"/Users/adwait/Workspace/quals/abstract/.gitignore",
+		"/Users/adwait/Workspace/quals/.gitignore",
+		"/Users/adwait/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/adwait/Workspace/scalable_timesync_paper/pulsar.tex",
+		"/Users/adwait/Downloads/index.html",
+		"/Users/adwait/Downloads/starter.tex",
+		"/Users/adwait/Workspace/quals/abstract/references.bib",
+		"/Users/adwait/Workspace/quals/abstract/qual-abstract.tex",
+		"/Users/adwait/Workspace/quals/abstract/acmsmall-sample-bibfile.bib",
+		"/Users/adwait/Downloads/Association for Computing Machinery (ACM) SIG Proceedings/ACM_proc.tex",
+		"/Users/adwait/Workspace/testing/slack_clean.py",
+		"/Users/adwait/Workspace/arm/Kinetis/kinetis_sdk/boards/frdmk22f/rtos_examples/freertos_dspi/freertos_dspi.c",
+		"/Users/adwait/Workspace/arm/Kinetis/projects/pulsar_three_msg/src/deca_spi.c",
+		"/Users/adwait/Workspace/slacker-space/slack_clean.py",
+		"/Users/adwait/Workspace/ta-18-349-f16/code/kernel_lab0_gdbchallenge/kernel.c",
+		"/Users/adwait/Workspace/arm/Kinetis/kinetis_sdk/rtos/freertos_8.2.3/Source/portable/GCC/ARM_CM4F/portmacro.h",
+		"/Users/adwait/Workspace/arm/Kinetis/kinetis_sdk/boards/frdmk22f/rtos_examples/freertos_queue/freertos_queue.c",
+		"/Users/adwait/Workspace/arm/Kinetis/kinetis_sdk/boards/frdmk22f/rtos_examples/freertos_uart/freertos_uart.c",
+		"/Users/adwait/Workspace/arm/Kinetis/kinetis_sdk/devices/MK22F51212/drivers/fsl_dspi.h",
+		"/Users/adwait/Workspace/arm/Kinetis/projects/pulsar_three_msg/src/pll_setup.c",
+		"/Users/adwait/Workspace/ta-18-349-f16/code/kernel_lab0_gdbchallenge/kernel.",
+		"/Users/adwait/Workspace/ta-18-349-f16/code/kernel_lab0_gdbchallenge/config.mk",
+		"/Users/adwait/Workspace/scalable_timesync_paper/Makefile",
+		"/Users/adwait/Workspace/scalable_timesync_paper/bibliography.bib",
+		"/Users/adwait/Workspace/arm/Kinetis/kinetis_sdk/boards/frdmk22f/rtos_examples/freertos_uart/board.h",
+		"/Users/adwait/Workspace/arm/Kinetis/kinetis_sdk/boards/frdmk22f/rtos_examples/freertos_queue/FreeRTOSConfig.h",
+		"/Users/adwait/.bash_profile",
+		"/Users/adwait/Workspace/arm/Kinetis/projects/pulsar_three_msg/src/pll_setup.h",
+		"/Users/adwait/Workspace/arm/Kinetis/kinetis_sdk/devices/MK22F51212/drivers/fsl_dspi_freertos.h",
+		"/Users/adwait/Workspace/arm/Kinetis/projects/pulsar_three_msg/src/deca_spi.h",
+		"/Users/adwait/Workspace/arm/Kinetis/projects/pulsar_three_msg/src/main.c",
+		"/Users/adwait/Workspace/arm/Kinetis/kinetis_sdk/devices/MK22F51212/drivers/fsl_dspi.c",
+		"/Users/adwait/Workspace/ta-18-349-f16/code/kernel_lab1_solution/src/i2c.c",
+		"/Users/adwait/Workspace/arm/Kinetis/kinetis_sdk/devices/MK22F51212/drivers/fsl_clock.c",
+		"/Users/adwait/Workspace/arm/Kinetis/kinetis_sdk/devices/MK22F51212/drivers/fsl_uart_freertos.c",
+		"/Users/adwait/Library/Application Support/Sublime Text 3/Packages/User/CTags.sublime-settings",
+		"/Users/adwait/Library/Application Support/Sublime Text 3/Packages/CTags/CTags.sublime-settings",
+		"/Users/adwait/Workspace/arm/Kinetis/kinetis_sdk/boards/frdmk22f/rtos_examples/freertos_generic/freertos_generic.c",
+		"/Users/adwait/Workspace/arm/Kinetis/kinetis_sdk/boards/frdmk22f/rtos_examples/freertos_hello/freertos_hello.c",
+		"/Users/adwait/tmp/349-f16/.gitignore",
+		"/Users/adwait/tester.sh",
+		"/Users/adwait/Workspace/18-349-f16/pcb/ioboard/v1.2/.gitignore",
+		"/Users/adwait/Workspace/18-349-f16/writeups/.gitignore",
+		"/Users/adwait/Workspace/18-349-f16/build_lab0.sh",
+		"/Users/adwait/Workspace/18-349-f16/.gitignore",
+		"/Users/adwait/driver.sh",
+		"/Users/adwait/Workspace/18-349-f16/pcb/ioboard/.gitignore",
+		"/Applications/Sublime Text.app/Contents/MacOS/sublime.py",
+		"/Users/adwait/Workspace/arm/Kinetis/kinetis_sdk/boards/frdmk22f/driver_examples/uart/polling_transfer/uart_polling_transfer.c",
+		"/Users/adwait/Workspace/KDS/dw1000_api_rev2p01/platform/syscalls.c",
+		"/Users/adwait/Workspace/arm/Kinetis/projects/pulsar_three_msg/src/uart_console.c",
+		"/Users/adwait/Workspace/arm/Kinetis/kinetis_sdk/boards/frdmk22f/driver_examples/gpio/input_interrupt/gpio_input_interrupt.c",
+		"/Users/adwait/Workspace/arm/Kinetis/kinetis_sdk/boards/frdmk22f/rtos_examples/freertos_sem/freertos_sem.c",
+		"/Users/adwait/Workspace/arm/Kinetis/kinetis_sdk/boards/frdmk22f/rtos_examples/freertos_mutex/freertos_mutex.c",
+		"/Users/adwait/Workspace/arm/Kinetis/kinetis_sdk/rtos/freertos_8.2.3/Source/include/semphr.h",
+		"/Users/adwait/Workspace/arm/Kinetis/kinetis_sdk/rtos/freertos_8.2.3/Source/include/task.h",
+		"/Users/adwait/Workspace/arm/Kinetis/projects/pulsar_free_hello/src/FreeRTOSConfig.h",
+		"/Users/adwait/Workspace/arm/Kinetis/projects/pulsar_free_hello/src/pulsar_free_hello.c",
+		"/Users/adwait/Workspace/arm/Kinetis/kinetis_sdk/boards/frdmk22f/demo_apps/adc_low_power/clock_config.c",
+		"/Users/adwait/Workspace/arm/Kinetis/projects/pulsar_freertos_uart/armgcc/CMakeLists.txt",
+		"/Users/adwait/Workspace/arm/Kinetis/projects/pulsar_freertos_uart/src/pulsar_freertos_uart.c",
+		"/Users/adwait/Library/Application Support/Sublime Text 2/Packages/SublimeClang/SublimeClang.sublime-settings",
+		"/Users/adwait/Documents/sublime projects/kinetis.sublime-project",
+		"/Users/adwait/Library/Application Support/Sublime Text 2/Packages/User/SublimeClang.sublime-settings",
+		"/Users/adwait/Workspace/sensys_16_demo/sigproc.bib",
+		"/Users/adwait/Workspace/sensys_16_demo/sig-alternate-05-2015.cls",
+		"/Users/adwait/Workspace/arm/Kinetis/projects/pulsar_off_freq_corr/src/pulsar_off_freq_corr.c",
+		"/Users/adwait/Workspace/arm/Kinetis/projects/pulsar_off_freq_corr/armgcc/CMakeLists.txt",
+		"/Users/adwait/Workspace/sensys_16_demo/.gitignore",
+		"/Users/adwait/Workspace/arm/Kinetis/projects/pulsar_freertos_uart/armgcc/init.gdb",
+		"/Users/adwait/Workspace/arm/Kinetis/projects/pulsar_freertos_uart/src/pulsar_board.h",
+		"/Users/adwait/Workspace/arm/Kinetis/kinetis_sdk/rtos/freertos_8.2.3/Source/include/queue.h",
+		"/Users/adwait/Workspace/arm/Kinetis/kinetis_sdk/boards/frdmk22f/rtos_examples/freertos_sem/FreeRTOSConfig.h",
+		"/Users/adwait/Workspace/arm/Kinetis/kinetis_sdk/rtos/freertos_8.2.3/Source/tasks.c",
+		"/Users/adwait/Workspace/arm/Kinetis/kinetis_sdk/rtos/freertos_8.2.3/Source/portable/GCC/ARM_CM4F/port.c",
+		"/Users/adwait/Workspace/arm/Kinetis/projects/pulsar_freertos_uart/src/FreeRTOSConfig.h",
+		"/Users/adwait/Workspace/arm/Kinetis/projects/pulsar_onboard_tw_init/src/main.c",
+		"/Users/adwait/Workspace/arm/Kinetis/projects/pulsar_three_msg/Makefile",
+		"/Users/adwait/Workspace/arm/Kinetis/projects/pulsar_freertos_uart/src/port.h",
+		"/Users/adwait/Workspace/arm/Kinetis/kinetis_sdk/devices/MK22F51212/dw1000_api_rev1p01/platform/port.h",
+		"/Users/adwait/Workspace/arm/Kinetis/kinetis_sdk/devices/MK22F51212/dw1000_api_rev1p01/decadriver/deca_device.c",
+		"/Users/adwait/Workspace/arm/Kinetis/projects/pulsar_freertos_uart/src/drivers/deca_sleep.h",
+		"/Users/adwait/Workspace/arm/Kinetis/projects/pulsar_freertos_uart/src/drivers/pll_setup.c",
+		"/Users/adwait/Workspace/arm/Kinetis/projects/pulsar_freertos_uart/src/drivers/lmx2571_regs.h",
+		"/Users/adwait/Workspace/arm/Kinetis/projects/pulsar_freertos_uart/src/drivers/dw1000_registers.h",
+		"/Users/adwait/Workspace/arm/Kinetis/projects/pulsar_freertos_uart/src/drivers/deca_spi.h",
+		"/Users/adwait/Workspace/arm/Kinetis/kinetis_sdk/devices/MK22F51212/drivers/fsl_port.h",
+		"/Users/adwait/Workspace/arm/Kinetis/projects/pulsar_freertos_uart/src/drivers/deca_spi.c",
+		"/Users/adwait/Workspace/arm/Kinetis/projects/pulsar_freertos_uart/src/drivers/pll_setup.h",
+		"/Users/adwait/Workspace/arm/Kinetis/kinetis_sdk/devices/MK22F51212/drivers/fsl_uart_freertos.h",
+		"/Users/adwait/Workspace/arm/Kinetis/kinetis_sdk/devices/MK22F51212/utilities/fsl_debug_console.h",
+		"/Users/adwait/Workspace/arm/Kinetis/projects/pulsar_free_hello/armgcc/CMakeLists.txt",
+		"/Users/adwait/Workspace/arm/Kinetis/projects/pulsar_sync_test/src/main.c",
+		"/Users/adwait/Workspace/arm/Kinetis/projects/pulsar_free_hello/src/pulsar_board.h",
+		"/Users/adwait/Workspace/arm/Kinetis/kinetis_sdk/boards/frdmk22f/rtos_examples/freertos_uart/armgcc/CMakeLists.txt",
+		"/Users/adwait/Workspace/arm/Kinetis/projects/pulsar_free_hello/src/board.c",
+		"/Users/adwait/Workspace/arm/Kinetis/projects/console_menu/src/console_menu.c",
+		"/Users/adwait/Workspace/arm/Kinetis/kinetis_sdk/boards/frdmk22f/driver_examples/mcg/pee_blpe/readme.txt",
+		"/Users/adwait/Workspace/arm/Kinetis/kinetis_sdk/devices/MK22F51212/drivers/fsl_pdb.h",
+		"/Users/adwait/Workspace/arm/Kinetis/kinetis_sdk/devices/MK22F51212/drivers/fsl_pdb.c"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"*.c,*.h,*.S",
+			".c,.h,.S",
+			".c .h .S",
+			".c,.h,.S",
+			".c, .h, .S",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\\cite",
+			"Allan deviat",
+			". ",
+			"Permission",
+			"optimistic",
+			"Using",
+			"Using larger",
+			"Your",
+			"Your Name",
+			". ",
+			"\\includegr",
+			"time syn",
+			"realization",
+			"jitter",
+			"1PPS",
+			"main",
+			"Beacon message",
+			"they did",
+			"as they",
+			"glossy",
+			"different phy",
+			"alternat",
+			"define",
+			"discipli",
+			"in propa",
+			"trigger",
+			"mega",
+			"limitations and futu",
+			"Link variance acr",
+			"algorithmic",
+			"protocol",
+			"correction",
+			"include",
+			"related work",
+			"150",
+			"\\alpha",
+			"gaussian",
+			"TCXO",
+			"\"",
+			"\\delta t_",
+			"servo",
+			"Decawave",
+			"PMU",
+			"inner loop ser",
+			">",
+			"<",
+			"clock synchronization",
+			"temperature",
+			"algorit",
+			"\\delta t_",
+			"\\delta i",
+			"\\delta",
+			"Pulsars",
+			"clock synchroniza",
+			"TCXO",
+			"NTP",
+			"1PPS",
+			"\\mu",
+			"\\compactimg",
+			"\\vspace{-10pt}",
+			"subfloat",
+			"\\correction",
+			"\\notes",
+			"\\comments",
+			"Protocol",
+			"terraneo2015reverse",
+			"comment",
+			"end-to-end",
+			"Hey",
+			"float",
+			"sub",
+			"compact",
+			"figures/",
+			"Link var",
+			"figures/",
+			"time tree",
+			"time",
+			"then",
+			"can not",
+			"allan",
+			"gps",
+			"-15",
+			"Sources of Error",
+			"Decawave",
+			"The CSAC",
+			"NIST",
+			"timing tree",
+			"second",
+			"additio",
+			"mills",
+			"cite",
+			"phase measur",
+			"adopts a ",
+			"The Pulsar platform",
+			"finally, the ",
+			">>>",
+			"sources of error",
+			"are known",
+			"1 PPS",
+			"time-synchronization",
+			"time synchronization",
+			"synchronization",
+			"synchronizatio",
+			"synchronization",
+			"firmware",
+			"protocol",
+			"hfil",
+			"hfill",
+			"  ",
+			"exter",
+			"kopetz",
+			"tempo",
+			"allan_tr",
+			"_tr",
+			"allan",
+			"schmidt",
+			"schmid",
+			"bibliography",
+			"cite",
+			"decawave",
+			"cite",
+			"gps",
+			"cite",
+			"schmidt20",
+			"cite",
+			"decawave",
+			"cite",
+			"UWB spe"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"\\notes",
+			"1PPS",
+			" ",
+			"DeviceId",
+			"GccDeviceId",
+			"SdkDeviceId",
+			"${PROJECT_NAME}",
+			"set(",
+			"set (",
+			"UARTCONSOLE_SCANF_ADVANCED_ENABLE",
+			"UARTCONSOLE_PRINTF_ADVANCED_ENABLE",
+			"UARTCONSOLE_SCANF_FLOAT_ENABLE",
+			"UARTCONSOLE_PRINTF_FLOAT_ENABLE"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "loraDir.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 19824,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1185,
+								1210
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 7528.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "loraDirMulBS.py",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 21012,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3509.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.clang":
+	{
+		"height": 112.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "lorasim.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"fsl_dspi_free",
+				"kinetis_sdk/devices/MK22F51212/drivers/fsl_dspi_freertos.h"
+			],
+			[
+				"fsl_dspi.h",
+				"kinetis_sdk/devices/MK22F51212/drivers/fsl_dspi.h"
+			],
+			[
+				"pulsar_three_msg/main",
+				"projects/pulsar_three_msg/src/main.c"
+			],
+			[
+				"pulsar_freertos_uart/pulsar_board",
+				"projects/pulsar_freertos_uart/src/pulsar_board.h"
+			],
+			[
+				"freertos_8.2.3/source/portable/gcc/arm_cm4f/port.c",
+				"kinetis_sdk/rtos/freertos_8.2.3/Source/portable/GCC/ARM_CM4F/port.c"
+			],
+			[
+				"port",
+				"kinetis_sdk/devices/MK22F51212/dw1000_api_rev1p01/platform/port.h"
+			],
+			[
+				"sl_uart_free",
+				"kinetis_sdk/devices/MK22F51212/drivers/fsl_uart_freertos.h"
+			],
+			[
+				"kinetis_sdk/tools/gdb/init.gdb",
+				"kinetis_sdk/tools/gdb/init.gdb"
+			],
+			[
+				"projdefs",
+				"kinetis_sdk/rtos/freertos_8.2.3/Source/include/projdefs.h"
+			],
+			[
+				"timers",
+				"kinetis_sdk/rtos/freertos_8.2.3/Source/include/timers.h"
+			],
+			[
+				"board.c",
+				"projects/ftm_test/src/board.c"
+			],
+			[
+				"init.gdb",
+				"kinetis_sdk/tools/gdb/init.gdb"
+			],
+			[
+				"ftm_test/cmakelis",
+				"projects/ftm_test/armgcc/CMakeLists.txt"
+			],
+			[
+				"link",
+				"projects/ftm_test/build/CMakeFiles/ftm_test.elf.dir/link.txt"
+			],
+			[
+				"link.txt",
+				"projects/ftm_test/build/CMakeFiles/ftm_test.elf.dir/link.txt"
+			],
+			[
+				"cmakefiles/ftm_test.elf.dir/link.txt",
+				"projects/ftm_test/build/CMakeFiles/ftm_test.elf.dir/link.txt"
+			],
+			[
+				"init",
+				"kinetis_sdk/tools/gdb/init.gdb"
+			],
+			[
+				"fsl_common.h",
+				"kinetis_sdk/devices/MK22F51212/drivers/fsl_common.h"
+			],
+			[
+				"fsl_uart",
+				"kinetis_sdk/devices/MK22F51212/drivers/fsl_uart.h"
+			],
+			[
+				"task",
+				"kinetis_sdk/rtos/freertos_8.2.3/Source/include/task.h"
+			],
+			[
+				"fsl_ftm.c",
+				"kinetis_sdk/devices/MK22F51212/drivers/fsl_ftm.c"
+			],
+			[
+				"",
+				"kinetis_sdk/devices/MK22F51212/drivers/fsl_ftm.h"
+			],
+			[
+				"ftm_test/board.h",
+				"projects/ftm_test/src/board.h"
+			],
+			[
+				"fsl_pit",
+				"kinetis_sdk/devices/MK22F51212/drivers/fsl_pit.h"
+			],
+			[
+				"hello_world/board",
+				"kinetis_sdk/boards/frdmk22f/demo_apps/hello_world/board.h"
+			],
+			[
+				"hello_world/main",
+				"projects/hello_world/src/main.c"
+			],
+			[
+				"fsl_ftm.h",
+				"kinetis_sdk/devices/MK22F51212/drivers/fsl_ftm.h"
+			],
+			[
+				"fsl_ftm",
+				"kinetis_sdk/devices/MK22F51212/drivers/fsl_ftm.h"
+			],
+			[
+				"fsl_common",
+				"kinetis_sdk/devices/MK22F51212/drivers/fsl_common.c"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 227.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
