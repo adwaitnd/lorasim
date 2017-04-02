@@ -590,12 +590,6 @@ for i in range(0,nrBS):
     packetsAtBS.append([])
     packetsRecBS.append([])
 
-
-
-
-
-
-
 for i in range(0,nrNodes):
     # myNode takes period (in ms), base station id packetlen (in Bytes)
     # 1000000 = 16 min
