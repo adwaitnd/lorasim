@@ -29,7 +29,7 @@ def airtime(sf,cr,pl,bw):
 # conditions for collions:
 #     1. same sf
 #     2. frequency, see function below (Martins email, not implementet yet):
-def checkcollision(packet):
+def checkcollision_IIM(packet):
     col = 0 # flag needed since there might be several collisions for packet
     # lost packets don't collide
     if packet.lost:
@@ -114,7 +114,7 @@ def timingCollision(p1, p2):
 #
 # this function creates a BS
 #
-class myBS():
+class myBS_IIM():
     def __init__(self, id, position):
         self.id = id
         self.x, self.y = position
@@ -122,7 +122,7 @@ class myBS():
 #
 # this function creates a node
 #
-class myNode():
+class myNode_IIM():
     def __init__(self, id, position, period, packetlen):
         global bs
 
