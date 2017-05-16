@@ -156,19 +156,37 @@
 	"buffers":
 	[
 		{
-			"file": "loraDir.py",
+			"file": "lora_tools.py",
 			"settings":
 			{
-				"buffer_size": 19824,
+				"buffer_size": 2555,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "loraDirMulBS.py",
+			"file": "lorasim_engine.py",
 			"settings":
 			{
-				"buffer_size": 21012,
+				"buffer_size": 8951,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "loraDir.py",
+			"settings":
+			{
+				"buffer_size": 20798,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/adwait/Downloads/LoraSim-AIM-8channel-greedy.py",
+			"settings":
+			{
+				"buffer_size": 23377,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -255,6 +273,9 @@
 	],
 	"file_history":
 	[
+		"/Users/adwait/Dropbox/Academics/CMU/Graduate AI/project/project_report/Makefile",
+		"/Users/adwait/Library/Application Support/Sublime Text 3/Packages/DocBlockr_Python/DocblockrPython.sublime-settings",
+		"/Users/adwait/Library/Application Support/Sublime Text 3/Packages/PyDOC/messages/install.txt",
 		"/Users/adwait/anaconda/pkgs/sympy-1.0-py35_0/lib/python3.5/site-packages/sympy/assumptions/ask_generated.py",
 		"/Users/adwait/anaconda/pkgs/pip-9.0.1-py27_1/lib/python2.7/site-packages/pip/_vendor/pyparsing.py",
 		"/Users/adwait/Workspace/pulsar_prop_aware_sync/pulsar.tex",
@@ -379,10 +400,7 @@
 		"/Users/adwait/Workspace/arm/Kinetis/projects/pulsar_free_hello/src/pulsar_board.h",
 		"/Users/adwait/Workspace/arm/Kinetis/kinetis_sdk/boards/frdmk22f/rtos_examples/freertos_uart/armgcc/CMakeLists.txt",
 		"/Users/adwait/Workspace/arm/Kinetis/projects/pulsar_free_hello/src/board.c",
-		"/Users/adwait/Workspace/arm/Kinetis/projects/console_menu/src/console_menu.c",
-		"/Users/adwait/Workspace/arm/Kinetis/kinetis_sdk/boards/frdmk22f/driver_examples/mcg/pee_blpe/readme.txt",
-		"/Users/adwait/Workspace/arm/Kinetis/kinetis_sdk/devices/MK22F51212/drivers/fsl_pdb.h",
-		"/Users/adwait/Workspace/arm/Kinetis/kinetis_sdk/devices/MK22F51212/drivers/fsl_pdb.c"
+		"/Users/adwait/Workspace/arm/Kinetis/projects/console_menu/src/console_menu.c"
 	],
 	"find":
 	{
@@ -406,6 +424,10 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"AIM sim",
+			"getFreq",
+			"\\x00",
+			"model",
 			"\\cite",
 			"Allan deviat",
 			". ",
@@ -529,16 +551,12 @@
 			"cite",
 			"gps",
 			"cite",
-			"schmidt20",
-			"cite",
-			"decawave",
-			"cite",
-			"UWB spe"
+			"schmidt20"
 		],
 		"highlight": true,
 		"in_selection": false,
 		"preserve_case": false,
-		"regex": false,
+		"regex": true,
 		"replace_history":
 		[
 			"",
@@ -565,54 +583,82 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "loraDir.py",
+					"file": "lora_tools.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 19824,
+						"buffer_size": 2555,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1185,
-								1210
+								768,
+								768
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/Python/Python.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 7528.0,
+						"translation.y": 447.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "lorasim_engine.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8951,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								692,
+								692
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
 					"type": "text"
 				},
 				{
-					"buffer": 1,
-					"file": "loraDirMulBS.py",
-					"semi_transient": true,
+					"buffer": 2,
+					"file": "loraDir.py",
+					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 21012,
+						"buffer_size": 20798,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								3263,
+								3263
 							]
 						],
 						"settings":
@@ -622,7 +668,43 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 3509.0,
+						"translation.y": 1130.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 3,
+					"file": "/Users/adwait/Downloads/LoraSim-AIM-8channel-greedy.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 23377,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								21376,
+								21376
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 10922.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
@@ -648,11 +730,18 @@
 				0,
 				1,
 				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
 			]
 		],
 		"cols":
 		[
 			0.0,
+			0.5,
 			1.0
 		],
 		"rows":
@@ -820,7 +909,7 @@
 		],
 		"width": 0.0
 	},
-	"selected_group": 0,
+	"selected_group": 1,
 	"settings":
 	{
 	},
