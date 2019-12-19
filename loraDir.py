@@ -135,10 +135,10 @@ def checkcollision(packet):
 #        |f1-f2| <= 60 kHz if f1 or f2 has bw 250
 #        |f1-f2| <= 30 kHz if f1 or f2 has bw 125
 def frequencyCollision(p1,p2):
-    if (abs(p1.freq-p2.freq)<=120 and (p1.bw==500 or p2.freq==500)):
+    if (abs(p1.freq-p2.freq)<=120 and (p1.bw==500 or p2.bw==500)):
         print "frequency coll 500"
         return True
-    elif (abs(p1.freq-p2.freq)<=60 and (p1.bw==250 or p2.freq==250)):
+    elif (abs(p1.freq-p2.freq)<=60 and (p1.bw==250 or p2.bw==250)):
         print "frequency coll 250"
         return True
     else:
